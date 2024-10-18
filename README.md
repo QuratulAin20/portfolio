@@ -8,7 +8,7 @@
   - Machine Learning, Deep Learning, NLP Bootcamp(Udemy)
   - GenAI(In progress)
   - MLOPS(In progress)
-![](/images/positions_by_state.png)
+
 
 
 # [Projects]
@@ -17,4 +17,4 @@
 - Kindle Review Sentimental Analysis
 - Text Generator
 - Text Summarizer 
-![](/images/matrix_results.png)
+
