@@ -14,7 +14,7 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: minima  # You can change this to any other Jekyll theme
+theme: Jekyll  # You can change this to any other Jekyll theme
 
 # Plugins
 plugins:
@@ -29,20 +29,20 @@ social:
     link: https://linkedin.com/in/Quratul Ain
 
 
-# Portfolio settings
-#portfolio:
-  #projects:
-    #- title: Project One
-     # description: A brief description of Project One.
-      #link: https://github.com/yourusername/project-one
-      #image: /assets/images/project-one.png
+Portfolio settings
+portfolio:
+  projects:
+    - title: Project One
+      description: A brief description of Project One.
+      link: https://github.com/yourusername/project-one
+      image: /assets/images/project-one.png
 
-    #- title: Project Two
-     # description: A brief description of Project Two.
-      #link: https://github.com/yourusername/project-two
-      #image: /assets/images/project-two.png
+    - title: Project Two
+      description: A brief description of Project Two.
+      link: https://github.com/yourusername/project-two
+      image: /assets/images/project-two.png
 
-    #- title: Project Three
-     # description: A brief description of Project Three.
-      #link: https://github.com/yourusername/project-three
-      #image: /assets/images/project-three.png
+    - title: Project Three
+      description: A brief description of Project Three.
+      link: https://github.com/yourusername/project-three
+      image: /assets/images/project-three.png
